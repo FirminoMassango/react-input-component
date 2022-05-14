@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/FirminoMassango/react-input-component">
+    <a href="https://github.com/FirminoMassango/react-input-component">
       Solution
     </a>
     <span> | </span>
