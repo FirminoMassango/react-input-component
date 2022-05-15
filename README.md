@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://react-input-component.vercel.app/">
+    <a href="https://react-input-component-firminomassango.vercel.app/">
       Demo
     </a>
     <span> | </span>
